@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "stephanos.english@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb"
+  },
+  "Keys": {
+    "BingKey" : "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
